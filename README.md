@@ -28,16 +28,18 @@ The Playwright setup is centralized in the `playwright.config.ts` file, where br
 
 ---
 
-## Project Structure
+### Project Structure
 
 The project follows a clear and scalable structure:
-
+```
+project-root/
 ├── tests/ # Test specifications
 ├── pages/ # Page Object Models
 ├── utils/ # Helper functions and accessibility utilities
 ├── playwright.config.ts
 ├── package.json
 └── README.md
+```
 
 This structure helps keep tests clean, reusable, and easy to maintain as the project grows.
 

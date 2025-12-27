@@ -1,0 +1,25 @@
+{
+  "name": "playwright-accessibility-portfolio",
+  "version": "1.0.0",
+  "description": "This project is a web test automation portfolio built with Playwright, focused on functional and accessibility testing.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barrerasilvia/playwright-accessibility-portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barrerasilvia/playwright-accessibility-portfolio/issues"
+  },
+  "homepage": "https://github.com/barrerasilvia/playwright-accessibility-portfolio#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^25.0.3"
+  }
+}

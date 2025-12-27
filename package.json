@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/barrerasilvia/playwright-accessibility-portfolio#readme",
   "devDependencies": {
+    "@axe-core/playwright": "^4.11.0",
     "@playwright/test": "^1.57.0",
     "@types/node": "^25.0.3"
   }
